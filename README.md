@@ -25,3 +25,7 @@ Currently focusing on learning backend
 ---
 "Don't try to be perfect but be better every day."
 
+
+
+![snake gif](https://github.com/Kusuma528/Kusuma528/blob/output/github-snake.svg)
+
