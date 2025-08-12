@@ -27,5 +27,5 @@ Currently focusing on learning backend
 
 
 
-![snake gif](https://github.com/Kusuma528/Kusuma528/blob/output/github-snake.svg)
+![snake gif](https://github.com/Kusuma528/Kusuma528/blob/output/github-snake-dark.svg)
 
