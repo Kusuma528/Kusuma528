@@ -25,6 +25,3 @@ Currently focusing on learning backend
 ---
 "Don't try to be perfect but be better every day."
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&hide=plaintext)
