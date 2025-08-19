@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kusuma
 
 A passionate Software Developer  
-Currently focusing on learning backend
+Currently focusing on mastering data structures and algorithms
 
 📫 How to reach me: kusumatd2004@gmail.com
 
@@ -10,7 +10,7 @@ Currently focusing on learning backend
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusuma-t-d-baa96a352)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/kusuma_td?igsh=ODBscmM1Y2tsM3Rk))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kusuma_td?igsh=ODBscmM1Y2tsM3Rk)
 
 ---
 
