@@ -5,7 +5,12 @@ Currently focusing on mastering data structures and algorithms
 
 📫 How to reach me: kusumatd2004@gmail.com
 
+<h3 align="left">Profile Views &#128064</h3>
+ <img src="https://komarev.com/ghpvc/?username=Kusuma528&label=Profile%20views&color=BC9F8B&style=flat" alt="Kusuma528" /> 
+
+
 ---
+
 
 ### Connect with me:
 
